@@ -10,7 +10,7 @@
 - Fun fact: I made my first open source contribution in July 2025!
 
 ### Tech Stack
-```bash
+bash
 Languages: Java, C, JavaScript, SQL  
 Frontend: HTML, CSS, React.js  
 Backend: Node.js, Express, Java (JDBC), MongoDB  

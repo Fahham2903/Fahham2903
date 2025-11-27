@@ -2,9 +2,9 @@
 <h3 align="center">Java Developer | Open Source Enthusiast | Constant Learner</h3>
 
 
-- I’m currently working on *open source Java and MERN projects*
+- I’m currently working on *open source Java projects*
 - I’m learning *Data Structures, System Design, and Spring Boot*
-- I’m open to collaborating on *Java backend or MERN stack projects*
+- I’m open to collaborating on *Java backend or react+java full stack projects*
 - Ask me about *Java, JDBC, React, or backend development*
 - How to reach me: karimfahham2903@gmail.com
 - Fun fact: I made my first open source contribution in July 2025!

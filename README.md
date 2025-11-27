@@ -13,7 +13,7 @@
 bash
 Languages: Java, C, JavaScript, SQL  
 Frontend: HTML, CSS, React.js  
-Backend: Node.js, Express, Java (JDBC), MongoDB  
+Backend: Springboot, Java (JDBC), MongoDB  
 Tools: Git, GitHub, VS Code, Postman
 
 ### 🛠 Tech Stack & Tools
